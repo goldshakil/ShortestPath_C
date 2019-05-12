@@ -9,9 +9,9 @@ Details of the Project:
 
 * In the matrix representing a circuit:
 
-  a)"\*" squares are blocked squares 
-  b)"0" squares are available to route a wire.
-  c)The number i represents the ith component.
+  - "\*" squares are blocked squares 
+  - "0" squares are available to route a wire.
+  - The number i represents the ith component.
 
 * All components should be connected where there is a path between every pair of components, but those paths cannot be crossed. A path consists of squares which are horizontally or vertically adjacent.
 
