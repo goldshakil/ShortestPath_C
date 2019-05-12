@@ -1,7 +1,7 @@
 # ShortestPath_C
 This project Implements a modified version of shortest path algorithm in (C language).
 
-Details of the Project:
+> Details of the Project:
 
 * A circuit is given as (n * m) character matrix of squares where there are k components to be connected to each other. Each component covers one unit square.
 
